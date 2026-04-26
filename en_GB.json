@@ -1,5 +1,28 @@
 {
     "home": {
-        "header.h1": "Default text"
+        "header.h1": "The next generation of Osekai",
+        "welcome.h1": "Welcome to the new Osekai!",
+        "welcome.p1": "We've been working on rewriting the entire site from the ground up, and the rewrite\n            currently features\n            Medals,\n            Rankings, and Badges!",
+        "welcome.p2": "Over the years, the previous version of Osekai, known as \"Eclipse\", grew large and\n            unmaintainable, and in\n            such a\n            state we felt a rewrite was worth the effort!",
+        "welcome.p3": "We're hoping to bring over Snapshots and Profiles soon, but we don't feel right doing it\n            without doing it\n            properly, so it'll be a little while longer for those!",
+        "explore.header.inex": "Explore INEX",
+        "explore.medals.h1": "Explore solutions, leave comments, and suggest beatmaps on every medal across osu!, all in one place!",
+        "explore.medals.cta": "Explore Medals",
+        "explore.rankings.h1": "Explore interactive player rankings across medals, mapping, all-mode pp, and more",
+        "explore.rankings.cta": "Explore Rankings",
+        "explore.badges.h1": "Get in-depth information about your osu! profile, map out your past in a timeline, and create future\n                    goals!",
+        "explore.badges.cta": "Explore Badges",
+        "explore.header.legacy": "Classic\/Eclipse Apps",
+        "explore.snapshots.h1": "Explore our archive of osu! versions, dating from 2007 to now!",
+        "help.h1": "How to help",
+        "help.p1": "We're always looking for new contributors to help us out with the site, and we're always looking for new ideas to\n        implement!",
+        "help.p2": "If you're interested in contributing, please check out the github repository at",
+        "bugs.h1": "Bugs?",
+        "bugs.p": "If you find any bugs, please report them on our github repository at"
+    },
+    "navbar": {
+        "settings.h1": "Settings",
+        "settings.hideobtained.title": "Completely hide obtained medals",
+        "settings.hideobtained.flair": "Only enabled when filter is on"
     }
 }
